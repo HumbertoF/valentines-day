@@ -28,7 +28,7 @@ Help me out by looping through the valentine's and making them into a web page!
 - [ ] Create a function called `setHTMLValentinesName`
     - It takes one parameter called `valentine`
         - This will be a valentine object. You do not know what that is yet, you just know you can access its `id` and its `name`.
-    - Using `valentine.id`, `document.getElementById`, and `${stringInterpoloation}`, find and store the Valentine's Name element from the HTML 
+    - Using `valentine.id`, `document.getElementById`, and `${stringInterpolation}`, find and store the Valentine's Name element from the HTML 
         - *Hint*: Check the IDs on the already created HTML
 - [ ] Create a function called `setHTMLValentinesMessage`
     - It takes one parameter called `valentine`
